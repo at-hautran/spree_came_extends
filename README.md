@@ -48,3 +48,4 @@ If you'd like to contribute, please take a look at the
 pull request.
 
 Copyright (c) 2017 [name of extension creator], released under the New BSD License
+# spree_came_extends
